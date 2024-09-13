@@ -46,4 +46,5 @@ The main purpose of this application is to enhance the video-watching experience
 
 Here's an example of how the chat interface might look:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/rakshithkamath/Youtube-ChatBot/blob/main/sample_output.jpg?raw=true)
+
